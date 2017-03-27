@@ -7,7 +7,9 @@ namespace TamogochiProgram
     {
         static void Main()
         {
-            Human master = new Human {Name = "Сучков Дима"};
+
+            Human master = new Human {Name = "Cучков Дима"};
+
             Cat cat = new Cat(master)
             {
                 Name = "Мурка",
