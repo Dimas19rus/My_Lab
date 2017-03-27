@@ -1,0 +1,16 @@
+c:\users\dimas\onedrive\документы\visual studio 2015\Projects\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.exe.config
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\bin\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\bin\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.csprojResolveAssemblyReference.cache
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.exe.config
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.exe
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\bin\Debug\TamogochiProgram.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\bin\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\bin\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiProgram\TamogochiProgram\obj\Debug\TamogochiProgram.csprojResolveAssemblyReference.cache

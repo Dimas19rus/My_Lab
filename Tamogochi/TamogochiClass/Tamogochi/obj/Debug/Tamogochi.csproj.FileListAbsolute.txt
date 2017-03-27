@@ -1,0 +1,9 @@
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\Tamogochi\bin\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\Tamogochi\bin\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\Tamogochi\obj\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\Tamogochi\obj\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiClass\Tamogochi\bin\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiClass\Tamogochi\bin\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiClass\Tamogochi\obj\Debug\Tamogochi.dll
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiClass\Tamogochi\obj\Debug\Tamogochi.pdb
+C:\Users\Dimas\OneDrive\Документы\Visual Studio 2015\Projects\Tamogochi\TamogochiClass\Tamogochi\obj\Debug\Tamogochi.csprojResolveAssemblyReference.cache
